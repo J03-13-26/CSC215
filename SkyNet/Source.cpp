@@ -13,6 +13,9 @@
 // Dont forget to create a GitHub Account and upload it there
 // Ask tutor for assistaince 
 
+// This is my first attempt at creating a search program so its simple. 
+// As my skills improve I will make updates to this program.
+
 // This is where I include the Libs I will need
 
 #include <ctime>
@@ -89,5 +92,3 @@ int main()
 }
 
 
-
-int score;
